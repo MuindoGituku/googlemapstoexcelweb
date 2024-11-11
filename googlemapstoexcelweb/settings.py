@@ -26,11 +26,12 @@ load_dotenv(os.path.join(BASE_DIR, '.env'))
 SECRET_KEY = 'django-insecure-#==@a$(3io^b24be_bh@=vts@ln9zsjzpj*4+y*g+zt$-xx@8l'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = [
     'localhost',
     '127.0.0.1',
+    'googlemapstoexcel-997cafadeda0.herokuapp.com'
 ]
 
 
