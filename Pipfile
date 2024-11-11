@@ -7,6 +7,10 @@ name = "pypi"
 django = "*"
 requests = "*"
 openpyxl = "*"
+python-dotenv = "*"
+panda = "*"
+pandas = "*"
+xlsxwriter = "*"
 
 [dev-packages]
 
