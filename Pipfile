@@ -12,6 +12,7 @@ panda = "*"
 pandas = "*"
 xlsxwriter = "*"
 gunicorn = "*"
+whitenoise = "*"
 
 [dev-packages]
 
